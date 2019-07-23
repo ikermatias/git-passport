@@ -1,4 +1,4 @@
 #Profesores
 Juan M Álvarez Q.
 #Estudiantes
-Joan Sebastián García Delgado
+Joan Sebastián Garcia Delgado
